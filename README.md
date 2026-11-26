@@ -15,7 +15,7 @@ Throughout this course, I learned various machine learning concepts, including C
 
 ### Skills I Developed
 
-During this course, I developed the following technical and analytical skills: <br>
+In this course, I acquired the following technical and analytical skills: <br>
 
 - Data cleaning and preprocessing <br>
 - Exploratory data analysis <br>
