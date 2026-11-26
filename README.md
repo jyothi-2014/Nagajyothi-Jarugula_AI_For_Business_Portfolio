@@ -58,4 +58,4 @@ https://drive.google.com/drive/folders/15kjigOMtCtDVQn6vxI85x-4U4xBNZLQO?usp=dri
 
 ## Conclusion
 
-This portfolio is a reflection of my academic achievements, technical skills, and hands-on experience with AI and machine learning. I am confident that the knowledge and skills I gained throughout this course will support my future academic and professional goals. I am excited about further developing my knowledge and skills and how I can use AI to solve problems in the real world in the business. <br>
+Throughout my learning journey, I have strengthened my technical knowledge and gained practical experience in artificial intelligence and machine learning. I believe the skills I developed during this course will contribute to my future academic and professional growth. I look forward to expanding my expertise and applying AI-driven solutions to real-world business challenges. <br>
